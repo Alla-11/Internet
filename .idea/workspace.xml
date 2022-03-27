@@ -16,7 +16,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="69a807b1-cdd5-45a9-a137-4d351fc64541" name="Default Changelist" comment="" />
+    <list default="true" id="69a807b1-cdd5-45a9-a137-4d351fc64541" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -221,10 +223,18 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="492" y="101" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1536.824@0.0.1536.824" timestamp="1648371558301" />
-    <state x="699" y="307" key="FileChooserDialogImpl" timestamp="1648405101567">
+    <state x="699" y="307" key="FileChooserDialogImpl" timestamp="1648406453735">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="699" y="307" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1648405101567" />
+    <state x="699" y="307" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1648406453735" />
+    <state x="647" y="310" key="Github.ShareDialog" timestamp="1648407525039">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="647" y="310" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1648407525039" />
+    <state x="435" y="117" key="Github.UntrackedFilesDialog" timestamp="1648407142107">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="435" y="117" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1648407142107" />
     <state width="1493" height="242" key="GridCell.Tab.0.bottom" timestamp="1648404984501">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
