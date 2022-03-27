@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="69a807b1-cdd5-45a9-a137-4d351fc64541" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="26nL7MzaktgMTG5i8n0jcGpM4f8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.splitter.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\Internet\src\test\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.tests">
+    <configuration name="DropdownTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Internet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.DropdownTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InputsTest.enteringNumbersIntoInputTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Internet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.InputsTest" />
+      <option name="METHOD_NAME" value="enteringNumbersIntoInputTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InputsTest.enteringWorldIntoInputTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Internet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.InputsTest" />
+      <option name="METHOD_NAME" value="enteringWorldIntoInputTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TyposTest.checkTextOnPage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Internet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.TyposTest" />
+      <option name="METHOD_NAME" value="checkTextOnPage" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Internet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.tests" />
+        <item itemvalue="TestNG.TyposTest.checkTextOnPage" />
+        <item itemvalue="TestNG.InputsTest.enteringWorldIntoInputTest" />
+        <item itemvalue="TestNG.InputsTest.enteringNumbersIntoInputTest" />
+        <item itemvalue="TestNG.DropdownTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\User\AppData\Roaming\Subversion</configuration>
+    <option name="sshConnectionType" value="PASSWORD" />
+    <option name="sshExecutablePath" value="ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCxriw5BIYxtA1SAaBt60a/spqtXDcDaTLqmlrs8Hm98MgaZeQV+cCdHGwH1ZjZJ7xUw1EVuJEHbFfa1f0Xy8+dxTMsyE7Egs3qqSP33VMfZvc7of4XEpsCs2t1cA0SELIdPABtb9xE7o+CIYnGYBg5AhnTKsc6A8aoe6HvHEWl7hdiAMfv8POVL0X1f3MxH5aq5u5PGxABuGOHw1X9h/zVnXCFGcaD8/zvNR3eZwdDXv+918/4GaN3FHbDY692hKrhvmYhP3TZSUz5JL1NmPOpSFgYMhJYW7q7O/n0TEhvWNRczgFzd53n2a8aIVq11UbL9EZK0mSApRElAwq8rHwvURb7Osx9fsKPMXlTy1l3b0cCtYTbo3a3O+UqdZYb/LSFuWPB6aI4zea/fqzAL6zLEnuEErBBv6NZqBg+3PplRWQ60Sma+0V56PogtYG/pdGC4qQsRu2bhwfc+jgpzIOaDY01mBARiVHBnf2DILz5hILOpkjB8pTootmcH/ixCP0= User@DESKTOP-FVR6F0A " />
+    <option name="sshUserName" value="Alla-11" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="69a807b1-cdd5-45a9-a137-4d351fc64541" name="Default Changelist" comment="" />
+      <created>1648054234101</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648054234101</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:C:/Users/User/IdeaProjects/Internet/src/test/java/tests" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="0" key="#Project_Structure" timestamp="1648372287107">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1648372287107" />
+    <state x="279" y="238" width="1129" height="624" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1648403201924">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="279" y="238" width="1129" height="624" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1536.824@0.0.1536.824" timestamp="1648403201924" />
+    <state x="492" y="101" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1648371558301">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="492" y="101" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1536.824@0.0.1536.824" timestamp="1648371558301" />
+    <state x="699" y="307" key="FileChooserDialogImpl" timestamp="1648405101567">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="699" y="307" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1648405101567" />
+    <state width="1493" height="242" key="GridCell.Tab.0.bottom" timestamp="1648404984501">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="242" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1648404984501" />
+    <state width="1493" height="242" key="GridCell.Tab.0.center" timestamp="1648404984501">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="242" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1648404984501" />
+    <state width="1493" height="242" key="GridCell.Tab.0.left" timestamp="1648404984501">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="242" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1648404984501" />
+    <state width="1493" height="242" key="GridCell.Tab.0.right" timestamp="1648404984501">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="242" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1648404984501" />
+    <state x="622" y="71" width="914" height="710" key="SettingsEditor" timestamp="1648406318902">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="622" y="71" width="914" height="710" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1648406318902" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/tests/DropdownTest.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/tests/DropdownTest.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
